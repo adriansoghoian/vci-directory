@@ -617,7 +617,7 @@
       "iss": "https://epicfe.unch.unc.edu/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "UNC Health Care System",
       "website": "https://www.unchealthcare.org/"
-    },	  
+    },
     {
       "iss": "https://epic-cs.unch.unc.edu/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "canonical_iss": "https://epicfe.unch.unc.edu/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
@@ -1493,7 +1493,7 @@
       "name": "Government of Nova Scotia",
       "website": "https://novascotia.ca/proof"
     },
-    {		
+    {
       "iss": "https://epicproxy.et1085.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "UI Health",
       "website": "https://hospital.uillinois.edu/"
@@ -1513,11 +1513,12 @@
       "website": "https://www.sansumclinic.org/"
     },
     {
-      "iss": "https://prodsoap1.tgh.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
+      "iss": "https://epicproxy.et0761.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Tampa General Hospital and University of South Florida"
     },
     {
-      "iss": "https://epicproxy.et0761.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
+      "iss": "https://prodsoap1.tgh.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
+      "canonical_iss": "https://epicproxy.et0761.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Tampa General Hospital and University of South Florida"
     },
     {
@@ -1589,11 +1590,11 @@
     },
     {
       "iss": "https://epicarr.emc.org/EMC_FHIR_PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC",
-      "name": "Eisenhower Health"      
+      "name": "Eisenhower Health"
     },
     {
       "iss": "https://scvhhsfhir.sccgov.org/interconnect-fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC",
-      "name": "County of Santa Clara Health System"     
+      "name": "County of Santa Clara Health System"
     },
     {
       "iss": "https://edhwebportal.hitchcock.org/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
@@ -1603,7 +1604,7 @@
     {
       "iss": "https://epicsoapproxyprd.mountsinai.org/FHIR-PRD/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Mount Sinai Health System",
-      "website": "https://www.mountsinai.org/"    
+      "website": "https://www.mountsinai.org/"
     },
     {
       "iss": "https://fhir.myeverettclinic.com/fhir/api/epic/2021/Security/Open/EcKeys/32001/SHC",
@@ -1630,21 +1631,21 @@
     {
       "iss": "https://epicrpx.shannonhealth.org/FHIR_ARR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Shannon Health",
-      "website": "https://www.shannonhealth.com/"     
+      "website": "https://www.shannonhealth.com/"
     },
     {
       "iss": "https://fhir.epic.medical.washington.edu/FHIR-Proxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "UW Medicine",
-      "website": "https://www.uwmedicine.org/"     
+      "website": "https://www.uwmedicine.org/"
     },
     {
       "iss": "https://epicproxy.et0943.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Yakima Valley Farm Workers Clinic",
-      "website": "https://www.yvfwc.com/"  
+      "website": "https://www.yvfwc.com/"
     },
     {
       "iss": "https://pvc.gov.nu.ca/pvc",
-      "name": "Department of Health, Government of Nunavut" 
+      "name": "Department of Health, Government of Nunavut"
     },
     {
       "iss": "https://rpprod.riversidehealthcare.net/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC",
@@ -1653,32 +1654,32 @@
     },
     {
       "iss": "https://rproxy.novohtg.com/OAUTHPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC",
-      "name": "NOVO Health Technology Group"      
+      "name": "NOVO Health Technology Group"
     },
     {
       "iss": "https://sfd.fairview.org/FHIR/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Fairview Health Services",
-      "website": "https://www.fairview.org/"      
+      "website": "https://www.fairview.org/"
     },
     {
       "iss": "https://apps.mywvuchart.com/FHIRproxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "WVU Medicine",
-      "website": "https://wvumedicine.org/"      
+      "website": "https://wvumedicine.org/"
     },
     {
       "iss": "https://interconnect.honorhealth.com/Interconnect-FHIR-PRD/api/epic/2021/security/open/eckeys/32001/SHC",
       "name": "HonorHealth",
-      "website": "https://www.honorhealth.com/"      
+      "website": "https://www.honorhealth.com/"
     },
     {
       "iss": "https://epicproxy.et1138.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Brown and Toland Physicians",
-      "website": "https://www.brownandtoland.com/"    
+      "website": "https://www.brownandtoland.com/"
     },
     {
       "iss": "https://epicproxy.et1043.epichosted.com/FHIRProxy/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "The Brooklyn Hospital Center",
-      "website": "https://www.tbh.org/"      
+      "website": "https://www.tbh.org/"
     },
     {
       "iss": "https://api.cvshealth.com/smarthealth/v1/card",
