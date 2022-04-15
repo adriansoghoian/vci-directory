@@ -1522,6 +1522,10 @@
       "name": "Tampa General Hospital and University of South Florida"
     },
     {
+      "iss": "https://appdev.tcpdev.org/notanissuer",
+      "name": "Bad issuer"
+    },
+    {
       "iss": "https://meritus-rev-prd.meritushealth.com/FHIRPRD/api/epic/2021/Security/Open/EcKeys/32001/SHC",
       "name": "Meritus Health",
       "website": "https://www.meritushealth.com/"
